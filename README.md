@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://wakatime.com/@x1zy" target="_blank">
-  <img width="50%" height="240px" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=x1zy&custom_title=Weekly%20Stats" alt="">
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=x1zy&custom_title=Weekly%20Stats" alt="">
 </a>
 
 #### Hi, my name is Nikita, and I am a 17 year old SUAI college student.
