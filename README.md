@@ -1,14 +1,6 @@
 # Welcome 👋
 
-<a href="https://discord.com/users/585788057484132362" target="_blank">
-  <img width="45%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/585788057484132362?theme=dark">
-</a>
-
-<a href="https://wakatime.com/@x1zy" target="_blank">
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=x1zy&custom_title=Weekly%20Stats" alt="">
-</a>
-
-#### Hi, my name is Nikita, and I am a 17 year old SUAI college student.
+## Hi, my name is Nikita, and I am a 17 year old SUAI college student.
 
 ### Languages & Tools
 
